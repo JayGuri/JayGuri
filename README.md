@@ -1,45 +1,94 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm **Jay Guri**
+<h1 align="center">Hi 👋 I'm Jay Guri</h1>
 
-Full Stack Web Developer | Research Intern @ IITB | Chairperson DJS S4DS | Photographer
-===================================================================================
+<h3 align="center">
+Full Stack Developer | Research Intern @ IIT Bombay | Chairperson DJS S4DS | Photographer
+</h3>
 
-Hi, I'm Jay Guri, a passionate B.Tech student in **Computer Science and Engineering (Data Science)** at **Dwarkadas J. Sanghvi College of Engineering**.
+---
 
-Currently a **research intern at IIT Bombay**, I specialize in **Full Stack Development**, **Machine Learning**, **Generative AI**, and **Photography**. My experience includes a Full Stack internship at **Realatte**, where I built an internal productivity tool that boosted team efficiency.
+## 🚀 About Me
 
-I'm also the **Chairperson of DJS S4DS**, mentoring **200+ students**, and a **2x hackathon winner** fueling my love for innovative projects. Planning an **MS abroad**—let's connect and collaborate! 🚀
+🎓 B.Tech in **Computer Science & Engineering (Data Science)**  
+🏫 Dwarkadas J. Sanghvi College of Engineering, Mumbai  
 
-**Fun Fact:** Faster in water than on land, and I solve a **Rubik's Cube** left-handed! 🏊‍♂️🧩
+🔬 Currently a **Research Intern at IIT Bombay**  
+💻 Passionate about **Full Stack Development, ML, Generative AI & Computer Vision**  
+👑 Chairperson of **DJS S4DS** — mentoring 200+ students  
+🏆 2x Hackathon Winner  
 
-- 🌍 Based in **Mumbai**
-- ✉️ Reach me at [jaymanishguri@gmail.com](mailto:jaymanishguri@gmail.com)
-- 🚀 Currently working on [EEG/EMG Hunger Detection System](https://github.com/sakshat193/IPD_Signal_Processing-)
-- 🧠 Learning: **Generative AI**, **Photography**, **Deep Learning**, **Computer Vision**
-- 👥 Open to collaborate on interesting tech that **brings about change**
-- 💬 **Fun side:** Die-hard Manchester United fan committing code late after tough matches. Away from merge conflicts, I unwind with Rubik's cubes, football, table tennis, music, or sleep. Let's geek out on tech/games! ⚽🎶
+🌍 Based in Mumbai  
+📫 Reach me: **jaymanishguri@gmail.com**  
+🚀 Working on: [EEG/EMG Hunger Detection System](https://github.com/sakshat193/IPD_Signal_Processing-)  
+🎯 Planning for MS abroad  
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+⚽ Manchester United fan | 🧩 Rubik’s Cube (left-handed!) | 🏊 Faster in water than on land  
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" />
 </p>
 
-## 📱 Connect
-<p align="left">
-<a href="https://github.com/JayGuri"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a>
-<a href="https://x.com/JayGuri11"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a>
-<a href="https://www.linkedin.com/in/jay-guri-223b16289/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a>
-<a href="https://instagram.com/jaymanishguri"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/></a>
+## 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux,vite" />
 </p>
 
-## 📊 GitHub Stats (Fixed)
-<div align="center">
+## ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,postgres" />
+</p>
 
-[![Jay's stats](https://github-readme-stats.vercel.app/api?username=JayGuri&show_icons=true&theme=teal&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b8a9&text_color=f0f6fc&icon_color=00b8a9)](https://github.com/anuraghazra/github-readme-stats)
+## 🤖 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-[![Snake eating commits](https://raw.githubusercontent.com/JayGuri/JayGuri/output/github-contribution-grid-snake.svg)](https://github.com/JayGuri/JayGuri)
+## 🛠 Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,arduino,vscode,wordpress,framer" />
+</p>
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayGuri&theme=teal&hide_border=true&background=0d1117&stroke=00b8a9&ring=00b8a9&fire=ff7b7b&currStreakNum=f0f6fc&currStreakLabel=00b8a9&sideNums=00b8a9&sideLabels=f0f6fc)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayGuri&layout=compact&theme=teal&hide_border=true&bg_color=0d1117&title_color=00b8a9&text_color=f0f6fc&icon_color=00b8a9)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats
 
-![Visitors](https://komarev.com/ghpvc/?username=JayGuri&style=flat-square&color=00b8a9&label=Profile%20Views)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayGuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayGuri&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayGuri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/JayGuri">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/jay-guri-223b16289/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/JayGuri11">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://instagram.com/jaymanishguri">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JayGuri&style=for-the-badge&color=blue" />
+</p>
