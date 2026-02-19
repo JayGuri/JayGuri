@@ -23,14 +23,13 @@
 - 🧪 **Side project (w/ friends):** EEG/EMG-based Hunger Detection System
 - 🌱 **Currently learning:** Streaming analytics, neuromorphic computing & biosignal processing
 - 💬 **Ask me about:** AI/ML pipelines, full-stack architecture, or running a tech community
-- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/jayguri) · [Email](mailto:jay@example.com)
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/jay-guri-223b16289/) · [Email](mailto:jaymanishguri@gmail.com)
 
 ---
 
 ## 🔭 What I Focus On
 
 - 🧠 **AI/ML & GenAI** with PyTorch, TensorFlow, scikit-learn, and OpenCV
-- 🌊 **Real-time systems** — streaming data pipelines with Kafka & Flink for environmental monitoring
 - 🌐 **Frontend** with React/Next.js, TypeScript, Tailwind, and performant UI tooling
 - ⚙️ **Backend APIs** with Node.js/Express and FastAPI, containerized and tested
 - 🔬 **Applied Research** — IoT sensor networks, predictive analytics, and disaster nowcasting
@@ -49,11 +48,6 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🌊 Data & Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -131,9 +125,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayguri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-guri-223b16289/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayguri)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jay@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaymanishguri@gmail.com)
 
 *Open to research collaborations, interesting projects, and good conversations about AI.*
 
