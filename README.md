@@ -84,7 +84,7 @@
 
 | # | What | Impact |
 |---|------|--------|
-| 🔬 | **EEG/EMG Hunger Detection** @ IIT Bombay | Novel biosignal + ML pipeline for real-time hunger state inference |
+| 🔬 | **EEG/EMG Hunger Detection** | Novel biosignal + ML pipeline for real-time hunger state inference |
 | 👥 | **Chairperson — DJS S4DS** | Mentoring 200+ students; organizing workshops, hackathons & speaker series |
 | 🏆 | **2x Hackathon Winner** | Shipped end-to-end products under 36-hour constraints |
 | 🚀 | **Full-Stack Products** | MERN + FastAPI apps with CI/CD, containerization, and cloud deployment |
