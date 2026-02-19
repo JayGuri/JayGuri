@@ -2,7 +2,7 @@
 
 # Hey, I'm Jay Guri 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Research+Intern+%40+IIT+Bombay;Full+Stack+Developer+%7C+AI%2FML+Engineer;Chairperson+%40+DJS+S4DS;Building+EEG%2FEMG+Hunger+Detection+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Research+Intern+%40+IIT+Bombay;Full+Stack+Developer+%7C+AI%2FML+Engineer;Chairperson+%40+DJS+S4DS;Building+Multi-Hazard+Early+Warning+Systems)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=jayguri&label=Profile+Views&color=0e75b6&style=flat-square" />
@@ -16,12 +16,12 @@
 ## 🚀 About
 
 - 🎓 **B.Tech in Computer Science (Data Science)** — Mumbai, India
-- 🔬 **Research Intern @ IIT Bombay** — Working on biosignal-based AI systems
+- 🔬 **Research Intern @ IIT Bombay** — Multi-hazard early warning systems: IoT sensing, real-time data pipelines (Kafka, Flink), deep learning for disaster prediction & nowcasting
 - 👥 **Chairperson of DJS S4DS** — Mentoring 200+ students in data science
 - 💻 **Full Stack Developer** (MERN + FastAPI) and **AI/ML practitioner** (CV, Deep Learning, GenAI)
 - 🏆 **2x Hackathon Winner** — Love shipping fast, iterating with data
-- 🧪 **Currently building:** EEG/EMG Hunger Detection System
-- 🌱 **Currently learning:** Neuromorphic computing & advanced biosignal processing
+- 🧪 **Side project (w/ friends):** EEG/EMG-based Hunger Detection System
+- 🌱 **Currently learning:** Streaming analytics, neuromorphic computing & biosignal processing
 - 💬 **Ask me about:** AI/ML pipelines, full-stack architecture, or running a tech community
 - 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/jayguri) · [Email](mailto:jay@example.com)
 
@@ -30,9 +30,10 @@
 ## 🔭 What I Focus On
 
 - 🧠 **AI/ML & GenAI** with PyTorch, TensorFlow, scikit-learn, and OpenCV
+- 🌊 **Real-time systems** — streaming data pipelines with Kafka & Flink for environmental monitoring
 - 🌐 **Frontend** with React/Next.js, TypeScript, Tailwind, and performant UI tooling
 - ⚙️ **Backend APIs** with Node.js/Express and FastAPI, containerized and tested
-- 🔬 **Applied Research** — bridging signal processing with real-world ML applications
+- 🔬 **Applied Research** — IoT sensor networks, predictive analytics, and disaster nowcasting
 - 🛠 **Developer experience:** Git, GitHub Actions, Postman, Docker, Vercel deployments
 
 ---
@@ -48,6 +49,11 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🌊 Data & Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -84,7 +90,8 @@
 
 | # | What | Impact |
 |---|------|--------|
-| 🔬 | **EEG/EMG Hunger Detection** | Novel biosignal + ML pipeline for real-time hunger state inference |
+| 🌊 | **Multi-Hazard Early Warning Systems @ IIT Bombay** | IoT sensor networks + Kafka/Flink pipelines + deep learning for real-time disaster prediction & community alerting |
+| 🧠 | **EEG/EMG Hunger Detection** *(collaborative side project)* | Biosignal + ML pipeline for inferring hunger states from neural & muscular signals |
 | 👥 | **Chairperson — DJS S4DS** | Mentoring 200+ students; organizing workshops, hackathons & speaker series |
 | 🏆 | **2x Hackathon Winner** | Shipped end-to-end products under 36-hour constraints |
 | 🚀 | **Full-Stack Products** | MERN + FastAPI apps with CI/CD, containerization, and cloud deployment |
