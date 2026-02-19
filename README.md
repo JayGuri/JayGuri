@@ -2,10 +2,10 @@
 
 # Hey, I'm Jay Guri 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=600&lines=Research+Intern+%40+IIT+Bombay;Full+Stack+Developer+%7C+AI%2FML+Engineer;Chairperson+%40+DJS+S4DS;Building+EEG%2FEMG+Hunger+Detection+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Research+Intern+%40+IIT+Bombay;Full+Stack+Developer+%7C+AI%2FML+Engineer;Chairperson+%40+DJS+S4DS;Building+EEG%2FEMG+Hunger+Detection+System)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=jayguri&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jayguri&label=Profile+Views&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/github/followers/jayguri?label=Followers&style=flat-square&color=brightgreen" alt="Followers" />
 </p>
 
@@ -94,19 +94,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayguri&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayguri&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayguri&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayguri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayguri&theme=chartreuse-dark&hide_border=true&background=0d0d0d" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jayguri&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 📈 Activity Graph
 
-[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayguri&theme=react-dark&bg_color=0d0d0d&color=7fff00&line=7fff00&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayguri&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
