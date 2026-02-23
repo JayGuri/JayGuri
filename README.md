@@ -13,27 +13,31 @@
 
 ---
 
-## 🚀 About
+## 🚀 About Me
 
-- 🎓 **B.Tech in Computer Science (Data Science)** — Mumbai, India
-- 🔬 **Research Intern @ IIT Bombay** — Multi-hazard early warning systems: IoT sensing, real-time data pipelines (Kafka, Flink), deep learning for disaster prediction & nowcasting
-- 👥 **Chairperson of DJS S4DS** — Mentoring 200+ students in data science
-- 💻 **Full Stack Developer** (MERN + FastAPI) and **AI/ML practitioner** (CV, Deep Learning, GenAI)
-- 🏆 **2x Hackathon Winner** — Love shipping fast, iterating with data
-- 🧪 **Side project (w/ friends):** EEG/EMG-based Hunger Detection System
-- 🌱 **Currently learning:** Streaming analytics, neuromorphic computing & biosignal processing
-- 💬 **Ask me about:** AI/ML pipelines, full-stack architecture, or running a tech community
+- 🎓 **B.Tech in Computer Science (Data Science)** — Mumbai, India  
+- 🔬 **Research Intern @ IIT Bombay**  
+  Working on **multi-hazard early warning systems**, combining IoT sensing, real-time data pipelines (Kafka, Flink), and deep learning for disaster prediction & nowcasting  
+- 👥 **Chairperson — DJS S4DS**  
+  Leading and mentoring **200+ students** in data science and applied AI  
+- 💻 **Full Stack Developer** (MERN + FastAPI) & **AI/ML Practitioner**  
+  Focused on computer vision, deep learning, and generative AI  
+- 🏆 **2× Hackathon Winner**  
+  Passionate about shipping fast, iterating with data, and building under pressure  
+- 🧪 **Collaborative side project:** EEG/EMG-based Hunger Detection System  
+- 🌱 **Currently learning:** Streaming analytics, neuromorphic computing & biosignal processing  
+- 💬 **Ask me about:** AI/ML pipelines, full-stack system design, or running a tech community  
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/jay-guri-223b16289/) · [Email](mailto:jaymanishguri@gmail.com)
 
 ---
 
-## 🔭 What I Focus On
+## 🔭 Areas of Focus
 
-- 🧠 **AI/ML & GenAI** with PyTorch, TensorFlow, scikit-learn, and OpenCV
-- 🌐 **Frontend** with React/Next.js, TypeScript, Tailwind, and performant UI tooling
-- ⚙️ **Backend APIs** with Node.js/Express and FastAPI, containerized and tested
-- 🔬 **Applied Research** — IoT sensor networks, predictive analytics, and disaster nowcasting
-- 🛠 **Developer experience:** Git, GitHub Actions, Postman, Docker, Vercel deployments
+- 🧠 **AI / ML & GenAI** — PyTorch, TensorFlow, scikit-learn, OpenCV, end-to-end ML pipelines  
+- 🌐 **Frontend Engineering** — React, Next.js, TypeScript, Tailwind, performance-oriented UI  
+- ⚙️ **Backend APIs** — Node.js, Express, FastAPI; containerized, tested, and scalable services  
+- 🔬 **Applied Research** — IoT sensor networks, predictive analytics, disaster nowcasting  
+- 🛠 **Developer Experience** — Git, GitHub Actions, Docker, Postman, Vercel deployments
 
 ---
 
@@ -82,13 +86,13 @@
 
 ## 🌟 Highlights
 
-| # | What | Impact |
-|---|------|--------|
-| 🌊 | **Multi-Hazard Early Warning Systems @ IIT Bombay** | IoT sensor networks + Kafka/Flink pipelines + deep learning for real-time disaster prediction & community alerting |
-| 🧠 | **EEG/EMG Hunger Detection** *(collaborative side project)* | Biosignal + ML pipeline for inferring hunger states from neural & muscular signals |
-| 👥 | **Chairperson — DJS S4DS** | Mentoring 200+ students; organizing workshops, hackathons & speaker series |
-| 🏆 | **2x Hackathon Winner** | Shipped end-to-end products under 36-hour constraints |
-| 🚀 | **Full-Stack Products** | MERN + FastAPI apps with CI/CD, containerization, and cloud deployment |
+| Area | Impact |
+|------|--------|
+| 🌊 **Multi-Hazard Early Warning Systems @ IIT Bombay** | IoT sensor networks + Kafka/Flink pipelines + deep learning for real-time disaster prediction & community alerting |
+| 🧠 **EEG/EMG Hunger Detection** *(collaborative side project)* | Biosignal-driven ML pipeline for inferring hunger states from neural & muscular signals |
+| 👥 **Chairperson — DJS S4DS** | Mentoring 200+ students; organizing workshops, hackathons & speaker series |
+| 🏆 **2× Hackathon Winner** | Shipped end-to-end products under 36-hour constraints |
+| 🚀 **Full-Stack Products** | MERN + FastAPI applications with CI/CD, containerization & cloud deployment |
 
 ---
 
@@ -107,7 +111,7 @@
 
 ## 📈 Activity Graph
 
-[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayguri&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayguri&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -121,7 +125,7 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
 <div align="center">
 
@@ -129,11 +133,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayguri)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaymanishguri@gmail.com)
 
-*Open to research collaborations, interesting projects, and good conversations about AI.*
+*Open to research collaborations, interesting projects, and thoughtful conversations about AI.*
 
 </div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
