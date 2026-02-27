@@ -2,7 +2,7 @@
 
 # Hey, I'm Jay Guri 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Research+Intern+%40+IIT+Bombay;Full+Stack+Developer+%7C+AI%2FML+Engineer;Chairperson+%40+DJS+S4DS;Vice+President+%40+DJS+MUNSOC;Building+Multi-Hazard+Early+Warning+Systems;3x+Hackathon+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Research+Intern+%40+IIT+Bombay;Full+Stack+Developer+%7C+AI%2FML+Engineer;Chairperson+%40+DJS+S4DS;Photographer;Building+for+Fun;3x+Hackathon+Winner)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=jayguri&label=Profile+Views&color=0e75b6&style=flat-square" />
