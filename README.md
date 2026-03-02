@@ -87,7 +87,6 @@
 
 | Area | Impact |
 |------|--------|
-| 🛡️ **ARFL Platform (Byzantine-Resilient FL)** | Engineered a privacy-preserving Federated Learning system focused on security. Implemented 2 client-side defense layers to prevent malicious nodes from sending poisoned gradients and weights. |
 | 🌊 **Multi-Hazard Early Warning Systems @ IIT Bombay** | IoT sensor networks + Kafka/Flink pipelines + deep learning for real-time disaster prediction & community alerting. |
 | 🧠 **EEG/EMG Hunger Detection** | Biosignal-driven ML pipeline for inferring hunger states from neural & muscular signals. |
 | 👥 **Student Leadership** | Chairperson @ DJS S4DS & Vice President @ DJS MUNSOC. Mentoring 200+ students; organizing workshops, hackathons & speaker series. |
