@@ -132,7 +132,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayguri)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaymanishguri@gmail.com)
 
-*Open to research collaborations, interesting projects, and thoughtful conversations about AI.*
+*Building for fun. Open to research collaborations, interesting projects, and thoughtful conversations about AI.*
 
 </div>
 
